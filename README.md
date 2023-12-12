@@ -1,4 +1,3 @@
-# Website_proz
 # Meu Primeiro Site HTML e CSS
 
 Este foi meu primeiro site feito no curso de desenvolvimento de sistemas, por isso,
@@ -40,15 +39,11 @@ O código HTML e CSS está estruturado em várias seções que compõem o site. 
 
   
 
-### 4. Box Model (`<div class="boxmodel">`)
+### 4. Box Model (`<div class="boxmodel">`) / 5. Rodapé (`<div class="Footer">`)
 
 - Apresenta três caixas com imagens ilustrativas.
 
- 
-
-### 5. Rodapé (`<div class="Footer">`)
-
-- Inclui informações de contato e direitos autorais.
+ - Inclui informações de contato e direitos autorais.
   
  ![Captura de tela 2023-12-12 135108](https://github.com/lucasvieiraz/Website_proz/assets/138801061/98abf6d7-3749-44e5-8ffc-4eed544a8a9a)
  
