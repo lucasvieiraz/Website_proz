@@ -39,7 +39,8 @@ O código HTML e CSS está estruturado em várias seções que compõem o site. 
 
   
 
-### 4. Box Model (`<div class="boxmodel">`) / 5. Rodapé (`<div class="Footer">`)
+### 4. Box Model (`<div class="boxmodel">`) 
+### 5. Rodapé (`<div class="Footer">`)
 
 - Apresenta três caixas com imagens ilustrativas.
 
